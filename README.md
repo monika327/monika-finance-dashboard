@@ -1,6 +1,10 @@
 # 💰 Monika Finance Dashboard
 
+🚀 **Live Demo:** https://monika-finance-dashboard.vercel.app
+
 A simple and clean finance dashboard built using React + Vite.
+
+---
 
 ## 🚀 Features
 - Track income and expenses
@@ -8,14 +12,17 @@ A simple and clean finance dashboard built using React + Vite.
 - Simple and user-friendly UI
 - Category-based transactions
 
+---
+
 ## 🛠️ Tech Stack
 - React.js
 - Vite
 - JavaScript
 - CSS
 
-## 📦 Installation
+---
 
+## 📦 Installation
 ```bash
 npm install
 npm run dev
